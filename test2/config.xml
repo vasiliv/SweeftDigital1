@@ -1,0 +1,10 @@
+<Config>
+    <Ui>
+        <Colour>black</Colour>
+        <Size>small</Size>
+    </Ui>
+    <Output>
+        <Mode>smb</Mode>
+        <Version>2</Version>
+    </Output>
+</Config>
